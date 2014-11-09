@@ -1,7 +1,9 @@
+<html>
+
 Deanna Taylor
 ========
 
-Fall Semester
+<h2> Fall Semester </h2>
 ========
 
 Period 6
@@ -41,3 +43,5 @@ Mini Projects
 ・MongoDB Login
 	○ Deanna Taylor, Natan Zamansky, Manservant Hecubus
 	○ 6/login/Deanna_Natan_Hecubus
+
+</html>
