@@ -9,6 +9,13 @@ Period 6
 
 <h2> Main Projects </h2>
 
+<h3> Final Project - Rulo </h3>
+<h4> Deanna Taylor, Benedict Bolton, Adam DeHovitz, Sophie Gershon<h4>
+<h4> Description: </h4>
+Allows users to find others in order to buy in bulk. Meet other people and get bulk discounts without having to take home bulk products.
+<br>
+https://github.com/AdamDeHovitz/Rulo
+
 <h3> Language Interpreter Project - Whogle/Whengle </h3>
 <h4> Deanna Taylor, Matthew Cook, Benedict Bolton, Eric Morgenstern <h4>
 <h4> Description: </h4>
